@@ -1,0 +1,48 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e0f7fa;
+    color: #004d40;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+header h1 {
+    font-family: 'Courier New', monospace;
+    font-size: 48px;
+}
+
+header h2 {
+    font-size: 24px;
+    color: #00796b;
+}
+
+section {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section img {
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+footer {
+    text-align: center;
+    background-color: #004d40;
+    color: #f7f5f5;
+    padding: 10px 0;
+    margin-top: 20px;
+} 
